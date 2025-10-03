@@ -1,9 +1,0 @@
-{
-	"id": "H5m3ycCdSttglS0",
-	"json": "{\"id\":\"H5m3ycCdSttglS0\",\"url\":\"http://localhost:3000/real-estate-photography-jobs/hdr-photos\",\"loadedUrl\":\"http://localhost:3000/real-estate-photography-jobs/hdr-photos\",\"uniqueKey\":\"http://localhost:3000/real-estate-photography-jobs/hdr-photos\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:37:33.228Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000/real-estate-photography-jobs/hdr-photos",
-	"url": "http://localhost:3000/real-estate-photography-jobs/hdr-photos"
-}

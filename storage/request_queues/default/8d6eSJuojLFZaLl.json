@@ -1,9 +1,0 @@
-{
-	"id": "8d6eSJuojLFZaLl",
-	"json": "{\"id\":\"8d6eSJuojLFZaLl\",\"url\":\"http://localhost:3000\",\"loadedUrl\":\"http://localhost:3000/\",\"uniqueKey\":\"http://localhost:3000\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-10-02T13:36:07.303Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000",
-	"url": "http://localhost:3000"
-}

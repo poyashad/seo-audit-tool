@@ -1,9 +1,0 @@
-{
-	"id": "pDPb55hZ8Yyaid8",
-	"json": "{\"id\":\"pDPb55hZ8Yyaid8\",\"url\":\"http://localhost:3000/real-estate-photography-jobs/virtual-tours\",\"loadedUrl\":\"http://localhost:3000/real-estate-photography-jobs/virtual-tours\",\"uniqueKey\":\"http://localhost:3000/real-estate-photography-jobs/virtual-tours\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:37:31.551Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000/real-estate-photography-jobs/virtual-tours",
-	"url": "http://localhost:3000/real-estate-photography-jobs/virtual-tours"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "5mPJXenr5L1kn0Q",
-	"json": "{\"id\":\"5mPJXenr5L1kn0Q\",\"url\":\"http://localhost:3000/real-estate-photographers/in/us/south-carolina\",\"loadedUrl\":\"http://localhost:3000/real-estate-photographers/in/us/south-carolina\",\"uniqueKey\":\"http://localhost:3000/real-estate-photographers/in/us/south-carolina\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:37:17.050Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000/real-estate-photographers/in/us/south-carolina",
-	"url": "http://localhost:3000/real-estate-photographers/in/us/south-carolina"
-}

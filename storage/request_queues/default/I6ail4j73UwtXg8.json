@@ -1,9 +1,0 @@
-{
-	"id": "I6ail4j73UwtXg8",
-	"json": "{\"id\":\"I6ail4j73UwtXg8\",\"url\":\"http://localhost:3000/real-estate-photography-jobs/in/us/colorado\",\"loadedUrl\":\"http://localhost:3000/real-estate-photography-jobs/in/us/colorado\",\"uniqueKey\":\"http://localhost:3000/real-estate-photography-jobs/in/us/colorado\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:37:37.739Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000/real-estate-photography-jobs/in/us/colorado",
-	"url": "http://localhost:3000/real-estate-photography-jobs/in/us/colorado"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "DPrFtsnR8Tl7dgL",
-	"json": "{\"id\":\"DPrFtsnR8Tl7dgL\",\"url\":\"http://localhost:3000/real-estate-photographers/in/us/minnesota\",\"loadedUrl\":\"http://localhost:3000/real-estate-photographers/in/us/minnesota\",\"uniqueKey\":\"http://localhost:3000/real-estate-photographers/in/us/minnesota\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:36:58.545Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000/real-estate-photographers/in/us/minnesota",
-	"url": "http://localhost:3000/real-estate-photographers/in/us/minnesota"
-}

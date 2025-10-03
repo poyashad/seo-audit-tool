@@ -1,9 +1,0 @@
-{
-	"id": "dtS02BHgq1d0mWH",
-	"json": "{\"id\":\"dtS02BHgq1d0mWH\",\"url\":\"http://localhost:3000/real-estate-photographers/in/us\",\"loadedUrl\":\"http://localhost:3000/real-estate-photographers/in/us\",\"uniqueKey\":\"http://localhost:3000/real-estate-photographers/in/us\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:36:12.798Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000/real-estate-photographers/in/us",
-	"url": "http://localhost:3000/real-estate-photographers/in/us"
-}

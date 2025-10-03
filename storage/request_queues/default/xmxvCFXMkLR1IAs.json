@@ -1,9 +1,0 @@
-{
-	"id": "xmxvCFXMkLR1IAs",
-	"json": "{\"id\":\"xmxvCFXMkLR1IAs\",\"url\":\"http://localhost:3000/real-estate-photographers/in/us/georgia\",\"loadedUrl\":\"http://localhost:3000/real-estate-photographers/in/us/georgia\",\"uniqueKey\":\"http://localhost:3000/real-estate-photographers/in/us/georgia\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:36:40.641Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000/real-estate-photographers/in/us/georgia",
-	"url": "http://localhost:3000/real-estate-photographers/in/us/georgia"
-}

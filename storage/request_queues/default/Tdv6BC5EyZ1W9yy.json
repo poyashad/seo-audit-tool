@@ -1,9 +1,0 @@
-{
-	"id": "Tdv6BC5EyZ1W9yy",
-	"json": "{\"id\":\"Tdv6BC5EyZ1W9yy\",\"url\":\"http://localhost:3000/real-estate-photographers/in/us/texas\",\"loadedUrl\":\"http://localhost:3000/real-estate-photographers/in/us/texas\",\"uniqueKey\":\"http://localhost:3000/real-estate-photographers/in/us/texas\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:37:18.785Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000/real-estate-photographers/in/us/texas",
-	"url": "http://localhost:3000/real-estate-photographers/in/us/texas"
-}

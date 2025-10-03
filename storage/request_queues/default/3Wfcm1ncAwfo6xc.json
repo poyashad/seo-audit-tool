@@ -1,9 +1,0 @@
-{
-	"id": "3Wfcm1ncAwfo6xc",
-	"json": "{\"id\":\"3Wfcm1ncAwfo6xc\",\"url\":\"http://localhost:3000/real-estate-photography-jobs/in/us/iowa\",\"loadedUrl\":\"http://localhost:3000/real-estate-photography-jobs/in/us/iowa\",\"uniqueKey\":\"http://localhost:3000/real-estate-photography-jobs/in/us/iowa\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:37:42.360Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000/real-estate-photography-jobs/in/us/iowa",
-	"url": "http://localhost:3000/real-estate-photography-jobs/in/us/iowa"
-}

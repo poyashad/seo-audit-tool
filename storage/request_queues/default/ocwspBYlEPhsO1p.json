@@ -1,9 +1,0 @@
-{
-	"id": "ocwspBYlEPhsO1p",
-	"json": "{\"id\":\"ocwspBYlEPhsO1p\",\"url\":\"http://localhost:3000/real-estate-photographers/in/us/delaware\",\"loadedUrl\":\"http://localhost:3000/real-estate-photographers/in/us/delaware\",\"uniqueKey\":\"http://localhost:3000/real-estate-photographers/in/us/delaware\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:36:27.662Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000/real-estate-photographers/in/us/delaware",
-	"url": "http://localhost:3000/real-estate-photographers/in/us/delaware"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "gbQeyDEA9QxB5wR",
-	"json": "{\"id\":\"gbQeyDEA9QxB5wR\",\"url\":\"http://localhost:3000/real-estate-photographers/2d-floor-plan\",\"loadedUrl\":\"http://localhost:3000/real-estate-photographers/2d-floor-plan\",\"uniqueKey\":\"http://localhost:3000/real-estate-photographers/2d-floor-plan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:36:24.976Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://localhost:3000/real-estate-photographers/2d-floor-plan",
-	"url": "http://localhost:3000/real-estate-photographers/2d-floor-plan"
-}
