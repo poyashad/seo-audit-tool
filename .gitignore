@@ -4,3 +4,4 @@ output/
 .DS_Store
 urls.txt
 crawlee_storage/
+storage/
