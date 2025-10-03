@@ -1,0 +1,9 @@
+{
+	"id": "Qgj6awcGRcVeZyv",
+	"json": "{\"id\":\"Qgj6awcGRcVeZyv\",\"url\":\"http://localhost:3000/real-estate-photographers/in/us/kansas\",\"loadedUrl\":\"http://localhost:3000/real-estate-photographers/in/us/kansas\",\"uniqueKey\":\"http://localhost:3000/real-estate-photographers/in/us/kansas\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:36:41.367Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://localhost:3000/real-estate-photographers/in/us/kansas",
+	"url": "http://localhost:3000/real-estate-photographers/in/us/kansas"
+}

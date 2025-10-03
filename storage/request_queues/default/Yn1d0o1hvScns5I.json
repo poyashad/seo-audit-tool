@@ -1,0 +1,9 @@
+{
+	"id": "Yn1d0o1hvScns5I",
+	"json": "{\"id\":\"Yn1d0o1hvScns5I\",\"url\":\"http://localhost:3000/real-estate-photographers/in/us/new-york\",\"loadedUrl\":\"http://localhost:3000/real-estate-photographers/in/us/new-york\",\"uniqueKey\":\"http://localhost:3000/real-estate-photographers/in/us/new-york\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:37:00.359Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://localhost:3000/real-estate-photographers/in/us/new-york",
+	"url": "http://localhost:3000/real-estate-photographers/in/us/new-york"
+}

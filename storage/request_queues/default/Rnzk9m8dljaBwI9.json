@@ -1,0 +1,9 @@
+{
+	"id": "Rnzk9m8dljaBwI9",
+	"json": "{\"id\":\"Rnzk9m8dljaBwI9\",\"url\":\"http://localhost:3000/real-estate-photography-jobs/in/us/georgia\",\"loadedUrl\":\"http://localhost:3000/real-estate-photography-jobs/in/us/georgia\",\"uniqueKey\":\"http://localhost:3000/real-estate-photography-jobs/in/us/georgia\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:37:41.881Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://localhost:3000/real-estate-photography-jobs/in/us/georgia",
+	"url": "http://localhost:3000/real-estate-photography-jobs/in/us/georgia"
+}

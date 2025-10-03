@@ -1,0 +1,9 @@
+{
+	"id": "Cp1lRENjzFbh63n",
+	"json": "{\"id\":\"Cp1lRENjzFbh63n\",\"url\":\"http://localhost:3000/real-estate-photographers/in/us/iowa\",\"loadedUrl\":\"http://localhost:3000/real-estate-photographers/in/us/iowa\",\"uniqueKey\":\"http://localhost:3000/real-estate-photographers/in/us/iowa\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:36:42.548Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://localhost:3000/real-estate-photographers/in/us/iowa",
+	"url": "http://localhost:3000/real-estate-photographers/in/us/iowa"
+}

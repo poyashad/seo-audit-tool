@@ -1,0 +1,9 @@
+{
+	"id": "zNeWrzfSmm16P17",
+	"json": "{\"id\":\"zNeWrzfSmm16P17\",\"url\":\"http://localhost:3000/real-estate-photography-jobs/2d-floor-plan\",\"loadedUrl\":\"http://localhost:3000/real-estate-photography-jobs/2d-floor-plan\",\"uniqueKey\":\"http://localhost:3000/real-estate-photography-jobs/2d-floor-plan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"depth\":1,\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2025-10-02T13:37:35.388Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://localhost:3000/real-estate-photography-jobs/2d-floor-plan",
+	"url": "http://localhost:3000/real-estate-photography-jobs/2d-floor-plan"
+}

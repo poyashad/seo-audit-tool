@@ -1,0 +1,26 @@
+{
+  "name": "seo-audit-tool",
+  "version": "1.0.0",
+  "description": "Comprehensive SEO and technical audit pipeline",
+  "type": "module",
+  "scripts": {
+    "audit": "node src/index.js",
+    "crawl": "node src/crawl.js",
+    "check-links": "node src/check-links.js",
+    "lighthouse": "node src/lighthouse-batch.js",
+    "sitemap-diff": "node src/sitemap-diff.js"
+  },
+  "dependencies": {
+    "crawlee": "^3.7.3",
+    "lighthouse": "^11.7.1",
+    "playwright": "^1.42.1",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "xml2js": "^0.6.2",
+    "csv-writer": "^1.6.0",
+    "p-limit": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
+}
